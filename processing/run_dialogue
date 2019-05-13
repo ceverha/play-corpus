@@ -1,0 +1,7 @@
+#!/bin/bash
+
+for i in ../data/authors/$1/plays/* ; do
+    playname=`basename "$i"`
+    echo $playname
+    python dialogue.py $1 $playname
+done

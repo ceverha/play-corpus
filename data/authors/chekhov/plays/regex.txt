@@ -1,0 +1,4 @@
+ivanoff == 0 == ^[A-Z ]{3,}\.[ ]
+seagull == 0 == ^[A-Z ]{3,}\.[ ]
+swansong == 0 == ^[A-Z ]{3,}\.[ ]
+theboor == 0 == ^[A-Z ]{3,}\.[ ]

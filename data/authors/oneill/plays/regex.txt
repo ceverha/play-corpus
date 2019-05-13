@@ -1,0 +1,5 @@
+ile == 0 == ^[A-Z\. ]{4,}(\([\w ]+\))?\.[ ]+
+annachristie == 0 == ^[A-Z ]{3,}\-\-
+thefirstman == 0 == ^[A-Z ]{3,}\-\-
+thehairyape == 0 == ^[A-Z ]{3,}\-\-
+thestraw == 0 == ^[A-Z\. ]{4,}(\([\w ]+\))?\.[ ]+

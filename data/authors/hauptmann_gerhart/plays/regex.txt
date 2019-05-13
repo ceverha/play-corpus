@@ -1,0 +1,7 @@
+before_dawn == 2 == [A-Z\. ]{3,}
+drayman_henschel == 2 == [A-Z\. ]{3,}
+rose_bernd == -1 == -1
+the_beaver_coat == 2 == [A-Z\. ]{3,}
+the_conflagration == 2 == [A-Z\. ]{3,}
+the_rats == 2 == [A-Z\. ]{3,}
+the_weavers == 2 == [A-Z\. ]{3,}

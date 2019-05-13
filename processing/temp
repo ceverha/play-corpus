@@ -1,0 +1,5 @@
+#!/bin/bash
+
+for i in test_dialogue/$1/* ; do
+    cat $i >> test_dialogue/$1_full.txt
+done

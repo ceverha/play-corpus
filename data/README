@@ -1,0 +1,34 @@
+This directory contains a raw corpus of theatrical text from a variety of late 19th 
+and early 20th century playwrights. 
+
+--> README
+--> full.txt
+    This file contains all of the plays in the corpus concatenated into one large file.
+--> authors
+    --> <example_author_0>
+        --> full.txt
+        This file contains all the plays of <example_author> concatenated into one
+	file.
+	--> plays
+	    --> <example_play_0>
+                --> play.txt
+		--> character
+		Each character's spoken dialogue and inline stage directions are
+		extracted and placed into personal files.
+		    --> <example_character_0>.txt
+		    --> <example_character_1>.txt
+		    --> ...
+		--> stage.txt
+		All non-inline stage directions are extracted and placed into a single
+		file.
+        --> <example_play_1>
+        --> ...
+    --> <example_author_1>
+a
+TODO: 
+      Rearrange folder content
+      Move load.py into corpus/preprocessing
+      Make load.py and other preprocessing code more generic (dual window rewrite)
+      Adapt load.py to write ALL characters into the above structure
+      Extract non-inline stage directions
+      Plan different model configurations (scope, word vs char level)

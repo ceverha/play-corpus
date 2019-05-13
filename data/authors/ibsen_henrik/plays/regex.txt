@@ -1,0 +1,18 @@
+a_dolls_house == 0 == ^[A-Za-z\. ]{4,}(\([\w ]+\))?\.[ ]+
+an_enemy_of_the_people == 0 == ^[A-Za-z\. ]{4,}(\([\w ]+\))?\.[ ]+
+catiline == 0 == ^[A-Z\. ]{3,}\.[ ]+
+ghosts == 0 == ^[A-Z\. ]{3,}\.[ ]+
+hedda_gabler == 2 == ^[A-Z\. ]{3,}\.
+john_gabriel_borkman == 0 == ^[A-Z ]{3,}\.\n  
+lady_inger_of_ostrat == 0 == ^[A-Z\. ]{4,}(\([\w ]+\))?\.[ ]+
+little_eyolf == 0 == ^[A-Z\. ]{3,}\.[ ]+
+loves_comedy == 2 == ^[A-Z\. ]{3,}\.
+olaf_liljekrans == -1 == -1
+pillars_of_society == 0 == ^[A-Za-z\. ]{4,}(\([\w ]+\))?\:[ ]+
+rosmersholm == 0 == ^[A-Za-z\. ]{4,}(\([\w ]+\))?\.[ ]+
+the_feast_at_solhoug == 2 == ^[A-Z\. ]{3,}\.
+the_lady_from_the_sea == 0 == ^[A-Za-z\. ]{4,}(\([\w ]+\))?\.[ ]+
+the_master_builder == 2 == ^[A-Z\. ]{3,}\.
+the_vikings_of_helgeland == 0 == ^[A-Z\. ]{3,}\.[ ]+
+the_warriors_barrow == -1 == -1
+when_we_dead_awaken == 2 == ^[A-Z\. ]{3,}\.

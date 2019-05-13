@@ -1,0 +1,4 @@
+inheritors == 0 == ^[A-Z ]{3,}\:[ ]
+theoutside == 0 == ^[A-Z ]{3,}\:[ ]
+theverge == 0 == ^[A-Z ]{3,}\:[ ]
+trifles == 0 == ^[A-Z ]{3,}\:[ ]

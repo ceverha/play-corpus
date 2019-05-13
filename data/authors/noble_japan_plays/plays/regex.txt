@@ -1,0 +1,4 @@
+hagoromo == 0 == ^[A-Z ]{4,}\n
+kagekiyo == 0 == ^[A-Z ]{4,}\n
+kumasaka == 0 == ^[A-Z ]{4,}\n
+nishigiki == 0 == ^[A-Z ]{4,}\n

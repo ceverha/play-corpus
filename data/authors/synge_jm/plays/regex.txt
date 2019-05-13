@@ -1,0 +1,6 @@
+deirdre_of_the_sorrows == 0 == ^[A-Z ]{4,}(\.|(\-\-.+\-\-))[ ]
+in_the_shadow_of_the_glen == 0 == ^[A-Z ]{4,}[ ]
+riders_to_the_sea == -1 == -1
+the_playboy_of_the_western_world == 0 == ^[A-Z ]{4,}(\.|(\-\-.+\-\-))[ ]
+the_tinkers_wedding == 0 == ^[A-Z ]{4,}\n
+the_well_of_the_saints == 0 == ^[A-Z ]{4,}(\.|(\-\-.+\-\-))[ ]

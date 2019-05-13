@@ -1,0 +1,10 @@
+#!/bin/bash
+
+author=oneill
+
+for i in $author/* ; do
+    if [ -d $i ]; then
+	echo $i
+        mv $i $author/plays/.
+    fi
+done

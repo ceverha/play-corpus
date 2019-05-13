@@ -1,0 +1,3 @@
+damaged_goods == 0 == ^[A-Z\. ]{3,}[\.\[]?[ ]+
+maternity == 0 == ^[A-Z\. ]{3,}[\.\[]?[ ]+
+the_three_daughters_of_m_dupont == 0 == ^[A-Z\. ]{3,}[\.\[]?[ ]+

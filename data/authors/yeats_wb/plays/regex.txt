@@ -1,0 +1,13 @@
+cathleen_ni_houlihan == 2 == ^[A-Z ]{4,}\.
+deirdre == 2 == ^[A-Z ]{4,}\.
+on_bailes_strand == 2 == ^[A-Z ]{4,}\.
+the_countess_cathleen == 2 == ^[A-Z ]{4,}\.
+the_dreaming_of_the_bones == 2 == ^[A-Z ]{4,}
+the_golden_helmet == 2 == ^[A-Z ]{4,}\.
+the_hour_glass == 2 == ^[A-Z ]{4,}\.
+the_kings_threshold == 2 == ^[A-Z ]{4,}\.
+the_land_of_hearts_desire == 2 == ^[A-Z ]{4,}\.
+the_only_jealousy_of_emer == 2 == ^[A-Z ]{4,}
+the_shadowy_waters == 2 == ^[A-Z ]{4,}\.
+the_unicorn_from_the_stars == 2 == ^[A-Z ]{4,}\.
+when_there_is_nothing == 0 == ^_[A-Za-z\. ]{4,}\._[ ]+

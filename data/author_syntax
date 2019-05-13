@@ -1,0 +1,46 @@
+Author Syntax
+help file that describes the syntax of the plays by each playwright
+eg. Shaw caps . same means Shaw's plays have characters written in all caps delimited
+by a period, with the dialogue immediately following.
+
+Bjornson
+	lower . same
+Brieux
+	caps . same
+Chekhov
+	caps . same
+Glaspell
+	caps : same
+Hauptmann
+	caps none double
+Ibsen
+	lower . same
+James
+	caps . or , double
+Lawrence
+	caps none double
+Maeterlinck
+	caps none next
+Noble
+	caps none next
+Oneill (need to convert to dir structure)
+	caps -- same
+Rostand
+	caps none next
+Shakespeare
+	caps . next
+Shaw
+	caps . same
+Strindberg (need to convert to dir structure)
+	caps . same
+Sudermann
+	lower . double
+Synge (inconsistent)
+	caps none same
+	caps . or -- same
+Wilde (inconsistent)
+	caps none double
+	caps . same
+Yeats (inconsistent)
+	_lower_ . same
+	caps . double

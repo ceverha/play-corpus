@@ -1,0 +1,3 @@
+guydomville == 0 == ^[A-Za-z\. ]{4,}(\([\w ]+\))?\.[ ]+
+thealbum == 2 == ^[A-Z\. ]{3,}\.
+thereprobate == 2 == ^[A-Z\. ]{3,}[\.,]

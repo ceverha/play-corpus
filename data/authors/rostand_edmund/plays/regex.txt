@@ -1,0 +1,3 @@
+chantecler == 0 == ^[A-Z ]{4,}\n
+cyrano_de_bergerac == 2 == ^[A-Z\. ]{4,}\.
+romancers == 0 == ^[A-Z\. ]{3,}\.[ ]+

@@ -1,0 +1,45 @@
+#!/bin/bash
+
+author="shakespeare"
+
+playnames=( "complete_works" )
+
+playurls=( "https://www.gutenberg.org/files/100/100-0.txt" )
+
+index=0
+
+echo "Downloading plays by " $author
+mkdir authors/$author
+cd authors/$author
+mkdir plays
+cd plays
+
+for i in "${playnames[@]}"; do
+    # make folder for play
+    echo "Processing play: " $i
+    mkdir $i
+    cd $i
+
+    # download play from url
+    wget ${playurls[$index]} -O play.txt
+    
+    read -p $i
+    # manually prune the text
+    emacs play.txt
+    rm play.txt~
+    
+    # make character dir, fill later
+    mkdir character
+    cd ../
+    
+    # iteratively build author specific full text
+    echo "Adding play to author full text"
+    cat $i/play.txt >> ../full.txt
+    index=$index+1;
+    
+done
+
+cd ../../../
+# add author specific full text to the overall full text
+echo "Adding author full text to overall full text"
+cat authors/$author/full.txt >> full.txt

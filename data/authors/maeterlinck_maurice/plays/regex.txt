@@ -1,0 +1,5 @@
+alladine_and_palomides == 2 == ^[A-Z\. ]{3,}\.
+joyzelle == 2 == ^[A-Z\. ]{3,}\.
+pelleas_and_melisande == 2 == ^[A-Z\. ]{3,}(_\(within\))?\._?
+the_blue_bird == -1 == -1  
+the_burgomaster_of_stilemonde == 2 == ^[A-Z\. ]{4,}

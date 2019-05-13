@@ -1,0 +1,12 @@
+fires_of_st_john == 2 == ^[A-Za-z]{4,}\.
+fritzchen == 2 == ^[A-Za-z]{4,}\.
+honor == 0 == ^[A-Za-z ]{4,}\.[ ]+
+john_the_baptist == 2 == ^[A-Z ]{4,}
+magda == 2 == ^[A-Z\. ]{4,}\.
+margot == 2 == ^[A-Za-z\. ]{4,}\.
+streaks_of_light == 2 == ^[A-Za-z\. ]{4,}\.
+teja == 2 == ^[A-Za-z\. ]{4,}\.
+the_eternal_masculine == 2 == ^[A-Za-z\. ]{4,}\.
+the_far_away_princess == 2 == ^[A-Za-z\. ]{4,}\.
+the_joy_of_living == 2 == ^[A-Za-z\. ]{4,}\.
+the_last_visit == 2 == ^[A-Za-z\. ]{4,}\.
